@@ -1,0 +1,13 @@
+E:\Executaveis liberados\STI\STI\bin\Debug\STI.exe.config
+E:\Executaveis liberados\STI\STI\bin\Debug\STI.exe
+E:\Executaveis liberados\STI\STI\bin\Debug\STI.pdb
+E:\Executaveis liberados\STI\STI\obj\Debug\STI.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\STI\STI\obj\Debug\STI.frmPrincipal.resources
+E:\Executaveis liberados\STI\STI\obj\Debug\STI.Properties.Resources.resources
+E:\Executaveis liberados\STI\STI\obj\Debug\STI.csproj.GenerateResource.Cache
+E:\Executaveis liberados\STI\STI\obj\Debug\STI.exe
+E:\Executaveis liberados\STI\STI\obj\Debug\STI.pdb
+E:\Executaveis liberados\STI\STI\obj\Debug\STI.frmCadCliente.resources
+E:\Executaveis liberados\STI\STI\obj\Debug\STI.frmCadFuncionario.resources
+E:\Executaveis liberados\STI\STI\obj\Debug\STI.frmCadServico.resources
+E:\Executaveis liberados\STI\STI\obj\Debug\STI.FrmConsultaCliente.resources
